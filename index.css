@@ -1,3 +1,16 @@
+h1 {
+    text-align: center; 
+
+}
+
+p {
+    text-align: center; 
+}
+
 body {
+    font-family: amatic-sc, sans-serif; 
+    font-size: 43px; 
+    color: darkorange;
     background-image: url(IMG/226403.jpg);
+    border-style: dotted; border-width: medium;
 }
